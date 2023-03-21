@@ -52,4 +52,4 @@ possibilidade de impressão das mesmas informações.
 
 ## Instalação
 
-O sistema deve ser instalado em um provedor PHP e rodado sobre o banco de dados MySQL. O mesmo pode ser baixado [por aqui](https://github.com/coqueiralmg/rh/releases). Além disso, é preciso imputar os dados padrão de acesso a usuário, que pode ser solicitado pela equipe responsável pelo desenvolvimento.
+O sistema deve ser instalado em um provedor PHP e rodado sobre o banco de dados MySQL. Além disso, é preciso imputar os dados padrão de acesso a usuário, que pode ser solicitado pela equipe responsável pelo desenvolvimento.
